@@ -1,7 +1,7 @@
 ### Namaste 🙏 I am Aagan; a Software Developer from Nepal 🇳🇵
 **About me**
 - 📫 How to reach me: aagan@asia.com
-- 😄 Pronouns: आगन
+- 😄 Pronouns: he/him
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
